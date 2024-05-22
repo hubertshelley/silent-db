@@ -1,0 +1,13 @@
+[workspace]
+members = ["examples/*", "silent-db", "silent-db-macros"]
+default-members = ["silent-db", "silent-db-macros"]
+resolver = "2"
+
+[workspace.package]
+edition = "2021"
+authors = ["Hubert Shelley <hubertshelley@163.com>"]
+homepage = "https://github.com/hubertshelley/silent"
+license = "Apache-2.0"
+readme = "./readme.md"
+repository = "https://github.com/hubertshelley/silent"
+version = "0.2.0"

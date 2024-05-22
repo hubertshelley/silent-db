@@ -1,0 +1,8 @@
+/target
+/Cargo.lock
+.idea/
+.vscode/
+static/
+py_env/
+.DS_Store
+build_rs_cov.profraw
